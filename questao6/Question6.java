@@ -4,7 +4,8 @@ import java.util.Scanner;
 public class Question6 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        float A,B,C,R,S,D;
+        int A,B,C;
+        float R,D,S;
         A = sc.nextInt();
         B = sc.nextInt();
         C = sc.nextInt();
